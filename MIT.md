@@ -58,13 +58,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-LE1ypLl5dPuzOQexXL72+BZd/2cnmnlUTDjQAGciIsHp/OJspParBwNZ4GqHjkKu9S4W/wyJiNDglcJyZ6T8lA==" src="https://github.githubassets.com/assets/diffs-2c4d72a4b979.js"></script>
   
 
-  <title>readme-template/README.md at master · microverseinc/readme-template</title>
+  <title>readme-template/MIT.md at master · microverseinc/readme-template</title>
 
 
 
     
 
-  <meta name="request-id" content="EAE0:B402:2743E7:2B2A78:62C11CB5" data-pjax-transient="true" /><meta name="html-safe-nonce" content="db61e4d6d4fa31c9b18c6d7e8d84b6231c6c70f1edd165c1c29cf096893d2e19" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9taWNyb3ZlcnNlaW5jL3JlYWRtZS10ZW1wbGF0ZSIsInJlcXVlc3RfaWQiOiJFQUUwOkI0MDI6Mjc0M0U3OjJCMkE3ODo2MkMxMUNCNSIsInZpc2l0b3JfaWQiOiI3ODQ2MTM1NzU3MzE4OTcxNSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="6d48379f54ee4fea0b09d618fdcd9d300ebb11b67dc7ab4e4872e2d674d90c45" data-pjax-transient="true" />
+  <meta name="request-id" content="EAE0:B402:27928E:2B7FE7:62C11D2D" data-pjax-transient="true" /><meta name="html-safe-nonce" content="db61e4d6d4fa31c9b18c6d7e8d84b6231c6c70f1edd165c1c29cf096893d2e19" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9taWNyb3ZlcnNlaW5jL3JlYWRtZS10ZW1wbGF0ZSIsInJlcXVlc3RfaWQiOiJFQUUwOkI0MDI6Mjc5MjhFOjJCN0ZFNzo2MkMxMUQyRCIsInZpc2l0b3JfaWQiOiI3ODQ2MTM1NzU3MzE4OTcxNSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="b5cb66d335d56228738e74bac3882fb9529732cfd416c06b205cd32e46aa4234" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:224900922" data-pjax-transient>
 
@@ -99,11 +99,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/24461cf5c40fb9e4baf0282f4528b1b403a1ec1c1bb19038fcc89f7b98824133/microverseinc/readme-template" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="readme-template/README.md at master · microverseinc/readme-template" /><meta name="twitter:description" content="Contribute to microverseinc/readme-template development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/24461cf5c40fb9e4baf0282f4528b1b403a1ec1c1bb19038fcc89f7b98824133/microverseinc/readme-template" /><meta property="og:image:alt" content="Contribute to microverseinc/readme-template development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="readme-template/README.md at master · microverseinc/readme-template" /><meta property="og:url" content="https://github.com/microverseinc/readme-template" /><meta property="og:description" content="Contribute to microverseinc/readme-template development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/24461cf5c40fb9e4baf0282f4528b1b403a1ec1c1bb19038fcc89f7b98824133/microverseinc/readme-template" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="readme-template/MIT.md at master · microverseinc/readme-template" /><meta name="twitter:description" content="Contribute to microverseinc/readme-template development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/24461cf5c40fb9e4baf0282f4528b1b403a1ec1c1bb19038fcc89f7b98824133/microverseinc/readme-template" /><meta property="og:image:alt" content="Contribute to microverseinc/readme-template development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="readme-template/MIT.md at master · microverseinc/readme-template" /><meta property="og:url" content="https://github.com/microverseinc/readme-template" /><meta property="og:description" content="Contribute to microverseinc/readme-template development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/103044822/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDMwNDQ4MjIsInMiOjkwMDY4NTc3NiwiYyI6Mzk0OTg4NjU5OCwidCI6MTY1NjgyMjk3MX0=--252725992a36d48ca73e56438bdd7efdbc4f9def1a62d5e7bbf3ffd96af31466" data-refresh-url="/_alive" data-session-id="6f28e2b635527cfbed214891b7150d232923204b18c6a8ade9953f9dd2c40af7">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/103044822/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDMwNDQ4MjIsInMiOjkwMDY4NTc3NiwiYyI6MTI3MDU4MjYwNiwidCI6MTY1NjgyMzA4OH0=--7a1f9b183661e98d599cd07607974ddedcd9e5fb04edad201a4cefffd8b2756d" data-refresh-url="/_alive" data-session-id="6f28e2b635527cfbed214891b7150d232923204b18c6a8ade9953f9dd2c40af7">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -133,7 +133,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/microverseinc/readme-template/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/microverseinc/readme-template/blob/master/MIT.md" data-pjax-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -225,7 +225,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="tZ0iOTZEmqH3HQQ7MLwggIvP799F7TUmknWwyP911OkPUt4__ALgLkEE2YD2NFPo9WuDAuF7Kc1z3DaMln8J8A" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="RlhuSzcSQLv-vjFCYWlHr9-r9YU171iRnaPvvg9IRe78l5JN_VQ6NEin7Pmn4TTHoQ-ZWJF5RHp8Cmn6ZkKY9w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -424,7 +424,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;AlaaShaheen2&quot;,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="9eff359f93f90538943b64d20759ba9a786a7baa2dac33edf70ff169c9198c3c" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;AlaaShaheen2&quot;,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/MIT.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="e2f2168937eb71e58c7151770820f92377f83008fea90931df2b60b6e6d1ec74" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -432,7 +432,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/103044822?s=40&amp;v=4" width="20" height="20" alt="@AlaaShaheen2" />
       AlaaShaheen2
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4rhfnH4x7QxlAa0hGvgZGnbC_294sgAS4-LmY6lQjgUBWd53rE_pJHIJRYgVMU13P2CatoHdejgH7AYFqIZ4TA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2OEWwOV-abv4tgwIdCILfJY_usjHuwbEYwuK_bey7lc7AJcrNwBtk---5KF7618R353fET7UfO6HBWqbtmQYHg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -469,7 +469,7 @@
 <notification-indicator
   
   class=" js-socket-channel"
-  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTAzMDQ0ODIyIiwidCI6MTY1NjgyMjk3MX0=--403c94ec965aef2f7c23ad397486789f7aea64a1344b191e993211d4829f9b1b"
+  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTAzMDQ0ODIyIiwidCI6MTY1NjgyMzA4OH0=--d8448bb9b7a39ff6a25b41d79d2c86032e6fe18359e775024b3b36847164b091"
   data-indicator-mode="none"
   data-tooltip-global="You have unread notifications"
   data-tooltip-unavailable="Notifications are unavailable at the moment."
@@ -623,7 +623,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/microverseinc/readme-template/blob/master/README.md
+      data-return-to=/microverseinc/readme-template/blob/master/MIT.md
       data-user-id="103044822"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -1586,7 +1586,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="43b4aaa3aae3a5182e6784492fb35996b7c628adb5dd612e616220fe878ee03f" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/MIT.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="1555c998bad5bca9958be8d92aebde9961dbd1e0d0b0d10702941737035f86a1" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1639,7 +1639,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0ViNLIJ_CY6IooLWI-vdIf-G7zCHpa53hO9g1pFxgRhyYhcNWIgsaH1HGWJNhujl4r4ahBRXYvHRz-FGEKGSOg" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="s6SmimTZjV_AVNCTpn4IlUWzMxKdoMBHdWvEkJHKOUsQnjyrvi6ouTWxSyfIEz1RWIvGpg5SDMEgS0UAEBoqaQ" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="224900922">
 
@@ -1767,7 +1767,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XgoR2oDNR62O9nIqG90jcQsycubcfEtiJfbbNbymMdL9MIv7WjpiS3sT6Z51sBa1FgqHUk-Oh-Rw1lqlPXYi8A" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DgJyBoESmaStB7au6RKtGswqMQnM4tr69O_ui6Bk7fytOOgnW-W8QljiLRqHf5je0RLEvV8QFnyhz28bIbT-3g" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="224900922">
 
@@ -1916,7 +1916,7 @@
   <li>
       
     <div data-view-component="true" class="BtnGroup">
-        <a href="/microverseinc/readme-template/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="1fd87ef4f7f4c2790b10af11b560ea1df20ae65a9dcc77558dc210ccad7a889b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of microverseinc/readme-template" data-view-component="true" class="btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a href="/microverseinc/readme-template/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/MIT.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="9278d13b3a1d8d7cc2d86138e4b5721dc72d5dafad261e4791a37452fea64783" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of microverseinc/readme-template" data-view-component="true" class="btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
             <span id="repo-network-counter" data-pjax-replace="true" title="792" data-view-component="true" class="Counter">792</span>
@@ -1936,13 +1936,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e865f3">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-029cbd">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-e865f3"
+        id="filter-menu-029cbd"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1984,19 +1984,19 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/microverseinc/readme-template/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mIoDli4JZOnWJkssNI7lMDiMue50OpbK1GMr7rG5pC-i0xj7aU79FFr1z_vgLj6AzalQw7oAtT6ijSQQz48kAQ" autocomplete="off" />
-        <input type="hidden" value="gUvzU7comE5nMzHTLNSzmO4r4IcbB-yU-2sz12JSluy7Eug-8G8Bs-vgtQT4dGgoGw4JqtU9z2CNhTwpHGQWwg" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/microverseinc/readme-template/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="66x4DbXgrWsMA9bR11L6ff8x5FCtxMB6MKV57PffuALR9WNg8qc0loDQUgYD8iHNChQNfWP-445GS3YSiek4LA" autocomplete="off" />
+        <input type="hidden" value="a2-tRSGM2lzqDeXNQSsZJFMJpwaRysp87RMKves60kFRNrYoZstDoWbeYRqVi8KUpixOK1_w6Yib_QVDlQxSbw" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="0b2b0edda9f0d502a0082d048bbf9d4974b3df38ae6b03f71c188d6c728761b3" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/MIT.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="09b6004ba125cec3c27f7a171c79439da50792b024aaec2ba094d3b178fe08ef" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="109 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" data-turbo-replace="true" title="109" data-view-component="true" class="Counter js-social-count">109</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/microverseinc/readme-template/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="l7P6b4QIHKMpxT_PITDXeI0BnDB_kF3U2VjLyeptlGDEw8xGfjXZDVeijN3sGzJytpjmPcmyrKrCssH-TRIBGA" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/microverseinc/readme-template/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="l5_MdjRn0FdR28-KBNWLck4iv0btp8xueq3wJQ9cbFzE7_pfzloV-S-8fJjJ_m54dbvFS1uFPRBhR_oSqCP5JA" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="9f619279188064215210a2e52183dac5dde85ff4c7c8e99eb91a15650b7da912" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/MIT.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="3eb4b8c3d55a1c99c2012f28dae7a883927b5fa45fc3096232863cbe8316f511" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -2017,13 +2017,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e7250c">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-8f9b53">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-e7250c"
+        id="filter-menu-8f9b53"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2230,7 +2230,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/microverseinc/readme-template/blob/ced8a552165b8449badcedc090a0f94d5ce81b06/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/microverseinc/readme-template/blob/ced8a552165b8449badcedc090a0f94d5ce81b06/MIT.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2314,7 +2314,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/microverseinc/readme-template/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/microverseinc/readme-template/blob/{{ urlEncodedRefName }}/MIT.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2354,7 +2354,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/microverseinc/readme-template/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/microverseinc/readme-template/blob/{{ urlEncodedRefName }}/MIT.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2385,7 +2385,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/microverseinc/readme-template"><span>readme-template</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/microverseinc/readme-template"><span>readme-template</span></a></span></span><span class="separator">/</span><strong class="final-path">MIT.md</strong>
   </h2>
   <a href="/microverseinc/readme-template/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">  Go to file
   
@@ -2398,7 +2398,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="bf2b7eba4a9c6b816798a7f7f85143f689229d782448cfb446b884fb6f2699df" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/microverseinc/readme-template/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/MIT.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="a083edc8b25731fa7e63b1362262c6f005ca807c8c594ede0235a7d88961c859" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/microverseinc/readme-template/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2411,13 +2411,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="MIT.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/microverseinc/readme-template/blob/ced8a552165b8449badcedc090a0f94d5ce81b06/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/microverseinc/readme-template/blob/ced8a552165b8449badcedc090a0f94d5ce81b06/MIT.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2453,30 +2453,33 @@
   <div class="Box-header Details js-details-container">
       <div class="d-flex flex-items-center">
         <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/nidalaa/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/nidalaa"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/7466903?s=48&amp;v=4" width="24" height="24" alt="@nidalaa" /></a>
+          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/fernandorpm/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fernandorpm"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/47700024?s=48&amp;v=4" width="24" height="24" alt="@fernandorpm" /></a>
         </span>
         <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
           <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/nidalaa/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/nidalaa">nidalaa</a>
+            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/fernandorpm/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fernandorpm">fernandorpm</a>
 
               <span class="markdown-title">
-                <a data-pjax="true" title="Update README.md" class="Link--secondary" href="/microverseinc/readme-template/commit/ced8a552165b8449badcedc090a0f94d5ce81b06">Update README.md</a>
+                <a data-pjax="true" title="Update readme file with correct linkedin and issues URL, Add MIT template file (#7)" class="Link--secondary" href="/microverseinc/readme-template/commit/f7774180cceaf29dfe2c5e1a1d5aa0f2fa090920">Update readme file with correct linkedin and issues URL, Add MIT temp…</a>
               </span>
           </div>
 
+            <span class="hidden-text-expander ml-1 flex-shrink-0">
+              <button type="button" class="ellipsis-expander js-details-target" aria-expanded="false">&hellip;</button>
+            </span>
 
           <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/microverseinc/readme-template/commit/ced8a552165b8449badcedc090a0f94d5ce81b06/rollup?direction=e" class="d-inline"></include-fragment>
+            <include-fragment accept="text/fragment+html" src="/microverseinc/readme-template/commit/f7774180cceaf29dfe2c5e1a1d5aa0f2fa090920/rollup?direction=e" class="d-inline"></include-fragment>
           </span>
         </div>
         <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
           <span class="d-none d-md-inline">
             <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/microverseinc/readme-template/commit/ced8a552165b8449badcedc090a0f94d5ce81b06" data-pjax>ced8a55</a>
-            <span itemprop="dateModified"><relative-time datetime="2022-01-19T13:21:36Z" class="no-wrap">Jan 19, 2022</relative-time></span>
+            <a class="text-small text-mono Link--secondary" href="/microverseinc/readme-template/commit/f7774180cceaf29dfe2c5e1a1d5aa0f2fa090920" data-pjax>f777418</a>
+            <span itemprop="dateModified"><relative-time datetime="2021-03-25T14:37:46Z" class="no-wrap">Mar 25, 2021</relative-time></span>
           </span>
 
-          <a data-pjax href="/microverseinc/readme-template/commits/master/README.md" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/microverseinc/readme-template/commits/master/MIT.md" class="ml-3 no-wrap Link--primary no-underline">
             <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
@@ -2486,6 +2489,7 @@
           </a>
         </div>
       </div>
+        <div class="Details-content--hidden ml-5 mt-2"><pre class="mt-2 f6 ws-pre-wrap">…late file (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="831849829" data-permission-text="Title is private" data-url="https://github.com/microverseinc/readme-template/issues/7" data-hovercard-type="pull_request" data-hovercard-url="/microverseinc/readme-template/pull/7/hovercard" href="https://github.com/microverseinc/readme-template/pull/7">#7</a>)</pre></div>
 
   </div>
 
@@ -2495,14 +2499,14 @@
         <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
     <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
 </svg>
-        <strong>4</strong>
+        <strong>1</strong>
         
-        contributors
+        contributor
       </summary>
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/microverseinc/readme-template/contributors-list/master/README.md" preload>
+        src="/microverseinc/readme-template/contributors-list/master/MIT.md" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -2521,18 +2525,6 @@
         </include-fragment>
       </details-dialog>
     </details>
-      <span class="">
-    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/nidalaa/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/microverseinc/readme-template/commits/master/README.md?author=nidalaa">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/7466903?s=48&amp;v=4" width="24" height="24" alt="@nidalaa" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/davidauza-engineer/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/microverseinc/readme-template/commits/master/README.md?author=davidauza-engineer">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/47565678?s=48&amp;v=4" width="24" height="24" alt="@davidauza-engineer" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/kethinov/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/microverseinc/readme-template/commits/master/README.md?author=kethinov">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/419567?s=48&amp;v=4" width="24" height="24" alt="@kethinov" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/fernandorpm/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/microverseinc/readme-template/commits/master/README.md?author=fernandorpm">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/47700024?s=48&amp;v=4" width="24" height="24" alt="@fernandorpm" /> 
-</a>
-</span>
-
   </div>
 </div>
 
@@ -2557,8 +2549,8 @@
 
       <details
   data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}"
-  data-menu-hydro-click-hmac="49427822b5c0b6e8514af679d7c7df5168303b60a8a7bfbd2e41b94234a212f8"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/MIT.md&quot;,&quot;user_id&quot;:103044822}}"
+  data-menu-hydro-click-hmac="bdba16a61b1dc5c4c8d6b974347269a11a03c52cf6df259a16165c0be2869471"
   class="dropdown details-reset details-overlay"
 >
   <summary
@@ -2574,34 +2566,11 @@
   <details-menu class="SelectMenu" role="menu">
     <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
 
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="toc-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter headings"
-            aria-label="Filter headings">
-        </div>
 
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#project-name">Project Name</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#built-with">Built With</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#live-demo-if-available">Live Demo (if available)</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#getting-started">Getting Started</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#prerequisites">Prerequisites</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#setup">Setup</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#install">Install</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#usage">Usage</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#run-tests">Run tests</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#deployment">Deployment</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#authors">Authors</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#-contributing"><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> Contributing</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#show-your-support">Show your support</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#acknowledgments">Acknowledgments</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/README.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="f062ba0c698a6f045b9a7500ef9f93637bc24558d237885feed3737182e05746" href="#-license"><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> License</a>
+      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/MIT.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="caa205f5315c5f96441e38783a6a5f9c5f5a048959f1b2c6c7cef0aee2b810f7" href="#copyright-2021-your-name">Copyright 2021, [YOUR NAME]</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 72px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/MIT.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="caa205f5315c5f96441e38783a6a5f9c5f5a048959f1b2c6c7cef0aee2b810f7" href="#please-delete-this-line-and-the-next-one">Please delete this line and the next one</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 72px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:224900922,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/readme-template/blob/master/MIT.md&quot;,&quot;user_id&quot;:103044822}}" data-hydro-click-hmac="caa205f5315c5f96441e38783a6a5f9c5f5a048959f1b2c6c7cef0aee2b810f7" href="#app-type-can-be-a-webpagewebsite-a-web-app-a-software-and-so-on">APP TYPE can be a webpage/website, a web app, a software and so on</a>
       </div>
     </div>
   </details-menu>
@@ -2610,18 +2579,18 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      73 lines (39 sloc)
+      10 lines (6 sloc)
       <span class="file-info-divider"></span>
-    1.4 KB
+    1.15 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-    <a href="/microverseinc/readme-template/blob/master/README.md?plain=1" data-permalink-href="/microverseinc/readme-template/blob/ced8a552165b8449badcedc090a0f94d5ce81b06/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <a href="/microverseinc/readme-template/blob/master/MIT.md?plain=1" data-permalink-href="/microverseinc/readme-template/blob/ced8a552165b8449badcedc090a0f94d5ce81b06/MIT.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
   
-</a>    <a href="/microverseinc/readme-template/blob/master/README.md" data-permalink-href="/microverseinc/readme-template/blob/ced8a552165b8449badcedc090a0f94d5ce81b06/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>    <a href="/microverseinc/readme-template/blob/master/MIT.md" data-permalink-href="/microverseinc/readme-template/blob/ced8a552165b8449badcedc090a0f94d5ce81b06/MIT.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
 </svg>
   
@@ -2629,9 +2598,9 @@
 
 
     <div class="BtnGroup">
-      <a data-permalink-href="/microverseinc/readme-template/raw/ced8a552165b8449badcedc090a0f94d5ce81b06/README.md" href="/microverseinc/readme-template/raw/master/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/microverseinc/readme-template/raw/ced8a552165b8449badcedc090a0f94d5ce81b06/MIT.md" href="/microverseinc/readme-template/raw/master/MIT.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/microverseinc/readme-template/blame/ced8a552165b8449badcedc090a0f94d5ce81b06/README.md" href="/microverseinc/readme-template/blame/master/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/microverseinc/readme-template/blame/ced8a552165b8449badcedc090a0f94d5ce81b06/MIT.md" href="/microverseinc/readme-template/blame/master/MIT.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
@@ -2640,7 +2609,7 @@
 
           
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/microverseinc/readme-template/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HQWSXgITZqG3ALWNiR0_eU_HI5528KktDnEu0FR74O-_1jP9mH93WkhTK2oSYpJp7DBlGUICrYgMi1jkC6Fcjw" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/microverseinc/readme-template/edit/master/MIT.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8DlZecgHcVEUiiTX5Az3CILeWeAHzQVm1or2V5QesZFqq_3BiAw0eGoHzvymITOUnqeLlVUupqOQDV9bbQBr-w" autocomplete="off" />
     <button title="Fork this project and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2651,7 +2620,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/microverseinc/readme-template/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Agx-avpqXEIf4a9BmAzAPHP5InSvwVkB-pxEmq346ceg39_JYAZNueCyMaYDc20s0A5k85szXaT4ZjKu8iJVpw" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/microverseinc/readme-template/edit/master/MIT.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eAfLRBkKFjkfF74_MxKcYrgQpZXqP7i7TeoCVUTgHtLilW_8WQFTEGGaVBRxP1j-pGl34LjcG34LbatZvf7EuA" autocomplete="off" />
             <button title="Fork this project and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">  <div>Edit this file</div>
               <div class="color-fg-muted">E</div>
   
@@ -2675,7 +2644,7 @@
 
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/microverseinc/readme-template/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yhRHnTT09WPnr_vjpEMGpbbHU9WrvcXtgnLmipTUrQRv8WkjY2jKVMEdSc9t2ku_Htn4dX_dBjlHjeTe1ld0HQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/microverseinc/readme-template/delete/master/MIT.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CsABBSAd2E-ZtrUJ6S1pQ8Aw6_Imc3UPh1ZA45lvDki-J1d7Pxi-bNs5qAplerlg94TF-q-rMh85HECs6Lx3iQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2709,27 +2678,27 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/microverseinc/readme-template/raw/master/README.md">
+            <a class="dropdown-item" href="/microverseinc/readme-template/raw/master/MIT.md">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/microverseinc/readme-template/blame/master/README.md">
+              <a class="dropdown-item" href="/microverseinc/readme-template/blame/master/MIT.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/microverseinc/readme-template/edit/master/README.md">Edit file</a>
+                <a class="dropdown-item" href="/microverseinc/readme-template/edit/master/MIT.md">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:224900922,&quot;actor_id&quot;:103044822,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/microverseinc/readme-template/delete/master/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/microverseinc/readme-template/delete/master/MIT.md">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2738,55 +2707,12 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8a4ae3fb98faf74ddf78a6677ceaa6e8872f7f340f569b7c5e1aa9bcc4061d95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f76657273652d626c756576696f6c6574"><img src="https://camo.githubusercontent.com/8a4ae3fb98faf74ddf78a6677ceaa6e8872f7f340f569b7c5e1aa9bcc4061d95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f76657273652d626c756576696f6c6574" alt="" data-canonical-src="https://img.shields.io/badge/Microverse-blueviolet" style="max-width: 100%;"></a></p>
-<h1 dir="auto"><a id="user-content-project-name" class="anchor" aria-hidden="true" href="#project-name"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Project Name</h1>
-<blockquote>
-<p dir="auto">Description the project.</p>
-</blockquote>
-<h2 dir="auto"><a id="user-content-built-with" class="anchor" aria-hidden="true" href="#built-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Built With</h2>
-<ul dir="auto">
-<li>Major languages</li>
-<li>Frameworks</li>
-<li>Technologies used</li>
-</ul>
-<h2 dir="auto"><a id="user-content-live-demo-if-available" class="anchor" aria-hidden="true" href="#live-demo-if-available"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Live Demo (if available)</h2>
-<p dir="auto"><a href="https://livedemo.com" rel="nofollow">Live Demo Link</a></p>
-<h2 dir="auto"><a id="user-content-getting-started" class="anchor" aria-hidden="true" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Getting Started</h2>
-<p dir="auto"><strong>This is an example of how you may give instructions on setting up your project locally.</strong>
-<strong>Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.</strong></p>
-<p dir="auto">To get a local copy up and running follow these simple example steps.</p>
-<h3 dir="auto"><a id="user-content-prerequisites" class="anchor" aria-hidden="true" href="#prerequisites"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Prerequisites</h3>
-<h3 dir="auto"><a id="user-content-setup" class="anchor" aria-hidden="true" href="#setup"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Setup</h3>
-<h3 dir="auto"><a id="user-content-install" class="anchor" aria-hidden="true" href="#install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Install</h3>
-<h3 dir="auto"><a id="user-content-usage" class="anchor" aria-hidden="true" href="#usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Usage</h3>
-<h3 dir="auto"><a id="user-content-run-tests" class="anchor" aria-hidden="true" href="#run-tests"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Run tests</h3>
-<h3 dir="auto"><a id="user-content-deployment" class="anchor" aria-hidden="true" href="#deployment"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Deployment</h3>
-<h2 dir="auto"><a id="user-content-authors" class="anchor" aria-hidden="true" href="#authors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Authors</h2>
-<p dir="auto"><g-emoji class="g-emoji" alias="bust_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png">👤</g-emoji> <strong>Author1</strong></p>
-<ul dir="auto">
-<li>GitHub: <a href="https://github.com/githubhandle">@githubhandle</a></li>
-<li>Twitter: <a href="https://twitter.com/twitterhandle" rel="nofollow">@twitterhandle</a></li>
-<li>LinkedIn: <a href="https://linkedin.com/in/linkedinhandle" rel="nofollow">LinkedIn</a></li>
-</ul>
-<p dir="auto"><g-emoji class="g-emoji" alias="bust_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png">👤</g-emoji> <strong>Author2</strong></p>
-<ul dir="auto">
-<li>GitHub: <a href="https://github.com/githubhandle">@githubhandle</a></li>
-<li>Twitter: <a href="https://twitter.com/twitterhandle" rel="nofollow">@twitterhandle</a></li>
-<li>LinkedIn: <a href="https://linkedin.com/in/linkedinhandle" rel="nofollow">LinkedIn</a></li>
-</ul>
-<h2 dir="auto"><a id="user-content--contributing" class="anchor" aria-hidden="true" href="#-contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> Contributing</h2>
-<p dir="auto">Contributions, issues, and feature requests are welcome!</p>
-<p dir="auto">Feel free to check the <a href="/microverseinc/readme-template/issues">issues page</a>.</p>
-<h2 dir="auto"><a id="user-content-show-your-support" class="anchor" aria-hidden="true" href="#show-your-support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Show your support</h2>
-<p dir="auto">Give a <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐️</g-emoji> if you like this project!</p>
-<h2 dir="auto"><a id="user-content-acknowledgments" class="anchor" aria-hidden="true" href="#acknowledgments"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Acknowledgments</h2>
-<ul dir="auto">
-<li>Hat tip to anyone whose code was used</li>
-<li>Inspiration</li>
-<li>etc</li>
-</ul>
-<h2 dir="auto"><a id="user-content--license" class="anchor" aria-hidden="true" href="#-license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> License</h2>
-<p dir="auto">This project is <a href="/microverseinc/readme-template/blob/master/MIT.md">MIT</a> licensed.</p>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h2 dir="auto"><a id="user-content-copyright-2021-your-name" class="anchor" aria-hidden="true" href="#copyright-2021-your-name"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Copyright 2021, [YOUR NAME]</h2>
+<h6 dir="auto"><a id="user-content-please-delete-this-line-and-the-next-one" class="anchor" aria-hidden="true" href="#please-delete-this-line-and-the-next-one"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Please delete this line and the next one</h6>
+<h6 dir="auto"><a id="user-content-app-type-can-be-a-webpagewebsite-a-web-app-a-software-and-so-on" class="anchor" aria-hidden="true" href="#app-type-can-be-a-webpagewebsite-a-web-app-a-software-and-so-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>APP TYPE can be a webpage/website, a web app, a software and so on</h6>
+<p dir="auto">Permission is hereby granted, free of charge, to any person obtaining a copy of this [APP TYPE] and associated documentation files, to deal in the [APP TYPE] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [APP TYPE], and to permit persons to whom the [APP TYPE] is furnished to do so, subject to the following conditions:</p>
+<p dir="auto">The above copyright notice and this permission notice shall be included in all copies or substantial portions of the [APP TYPE].</p>
+<p dir="auto">THE [APP TYPE] IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE [APP TYPE] OR THE USE OR OTHER DEALINGS IN THE [APP TYPE].</p>
 </article>
   </div>
 
